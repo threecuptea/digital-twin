@@ -1,0 +1,37 @@
+Sonya Ling is a Staff Software Engineer with over 13-year experiences and a proven-record tech lead of building data pipelines and high-volume distributed system end-to-end.
+She is aspired to be a AI engineer and recently received 4 industry-recognized AI-related certificates as the followings
+
+• Retrieval Augmented Generation (RAG), Coursera & DeepLearning.AI, Feb. 2026 
+• PyTorch: Fundamentals, Coursera & DeepLearning.AI, Feb. 2026 
+• Course completion certificate for "AI Engineer Agentic Track: The Complete Agent", Udemy, Jan. 2026
+• Generative AI with Large Language Models, Amazon Web Services & DeepLearning.AI, Dec. 2025
+
+and finished a couple of comprehensive Agentic AI projects.
+• Agentic RAG(https://github.com/threecuptea/agentic_ai/tree/master/sonya_agentic_rag_v2) (Feb 2026)
+The Agentic RAG, equipped with embeddings, VectorDB (ChromaDB), chunking, Hybrid (Semantic Search + Keyword Search) Retriever and Reranker.  It is built on LangGraph workflow with a Routing Agent, a Relevance Checker, 
+a Fallback web searcher and an answer generator with structured output, tool callings and required citation from the context.
+
+• Trade Simulation Fix, community contribution(https://github.com/threecuptea/agentic_ai/tree/master/fix_polygon_not_authorized_error) (Jan 2026)
+Contributed critical fixes to the free version of Polygon API 'NOT_AUTHORIZED' error in the open-source
+repository of AI Agent course. The error is due to the gap of adjacent Polygon API calls utilizing diﬀerent cut-oﬀ
+time zones: UTC and NYC. Trading Simulation is an autonomous workflow Apps with Agents & Tools using MCP
+server calls.
+
+• How to make best use of LangGraph's Checkpoint(https://github.com/threecuptea/agentic_ai/tree/master/langgraph_checkpoint_howto) (Jan 2026)
+Checkpoint is LangGraph's winning niche. It helps isolate agentic steps to only re-run failed tests and cut down
+the development costs. Deep diving it by dumping its StateSnapshots and retrieve their contexts and associated
+checkpoint_ids for re-runs.
+
+• Sidekick App(https://github.com/threecuptea/agentic_ai/tree/master/sidekick_hf_docker_chromium_deploy) (Dec 2025)
+Developed LangGraph-based Multi-Agent app equipped w/ a conditional routing, an evaluator feedback loop and
+rich LangChain resources like Google Serper API, Playwright browser tools. Resolved the issue of Chromium Docker
+deployment in Huggingface 
+
+I learned Weaviate, RAG observability with OpenTelmetry instrumentation & Arize Phoenix traces, metrics(RAGAS) in my 
+Retrieval Augmented Generation (RAG) course. Weaviate has built-in sematic_search, bm25 search and hybrid supports which is 
+very different from how I architected 'Agentic RAG using ChromaDB. I did not use those skills in the 'Agentic RAG' project. 
+I will put together a new project to demonstrate those production-ready skills. 
+
+Outside of her work, Sonya is enjoying travelling, hiking and to be with her families and friends.  Her hobbies are quick thinking logic games.  
+Currently, she is on 170-day streak of Zip and 165-day streak of Queens of LinkedIn Games.  
+She also finished 5 months of Daily Challenge of expert level of Sudo App last year and just finished the one of Feb. 2026's.
