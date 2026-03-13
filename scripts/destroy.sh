@@ -84,4 +84,3 @@ echo ""
 echo "💡 To remove the workspace completely, run:"
 echo "   terraform workspace select default"
 echo "   terraform workspace delete $ENVIRONMENT"
-Re
